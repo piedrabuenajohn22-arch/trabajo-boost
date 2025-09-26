@@ -1,0 +1,32 @@
+h2 {
+text-align: center;
+    }
+
+h3 {
+text-align: center;
+    }
+
+.Servidores {
+display: flex;
+justify-content: center;
+    }
+
+.LineaHistorica {
+display: flex;
+justify-content: center;
+    }
+
+.chatgpt {
+display: flex;
+justify-content: center;
+    }
+
+.alexalogo {
+display: flex;
+justify-content: center;
+    }
+
+.davinci {
+display: flex;
+justify-content: center;
+    }
